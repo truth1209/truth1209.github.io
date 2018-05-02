@@ -9,7 +9,7 @@
   "theme_color"       : "#ACE",
   "icons": [
     {
-      "src"           : "/img/logo.png",
+      "src"           : "logo.png",
       "sizes"         : "72x72",
       "type"          : "image/png"
     }
