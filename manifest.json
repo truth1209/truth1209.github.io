@@ -1,6 +1,6 @@
 {
-  "name"              : "PWA Website",
-  "short_name"        : "PWA",
+  "name"              : "Trip Finance Lite",
+  "short_name"        : "TFL",
   "description"       : "An example PWA website",
   "start_url"         : "/",
   "display"           : "standalone",
